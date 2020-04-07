@@ -20,5 +20,6 @@ public class main{
         ArrayList<Integer> result = new ArrayList<>();
         result = newA.concatAndSort(list1, list2, list3);
         System.out.println(result);
+        System. out .println( "Successfully reverted in Git" );
     }
 }
